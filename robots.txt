@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://silvino0102.github.io/meu-site_adulto/sitemap.xml
+
