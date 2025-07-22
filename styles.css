@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  background-color: #111;
+  color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #000;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav button {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  background: crimson;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+main .teaser {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button#joinNow {
+  margin-top: 20px;
+  padding: 1rem;
+  background: limegreen;
+  border: none;
+  color: white;
+  font-size: 1rem;
+}
